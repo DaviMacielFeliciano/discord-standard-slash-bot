@@ -1,0 +1,7 @@
+{
+    "token": "Token",
+    "connect_string": "Sua DB (MONGO)",
+    "ticketConfig": {
+        "mainGuildId": "ID"
+    }
+}

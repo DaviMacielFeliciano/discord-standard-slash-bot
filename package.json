@@ -1,0 +1,20 @@
+{
+  "name": "discord-standard-slash-bot",
+  "version": "1.0.0",
+  "description": "um bot base feito para slashcommands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "011Store",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "mongoose": "^6.4.0",
+    "path": "^0.12.7"
+  }
+}
